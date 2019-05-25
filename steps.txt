@@ -1,0 +1,7 @@
+Une fois qu'on a la structure de base :
+	- Src, Dist, Public
+	- App.js, index.js
+
+Pour créer un composant :
+	- créer fichier : MonComposant.js (avec la structure du App.js)
+	- Importer MonComposant.js dans le App.js (si c'est là qu'on souhaite l'afficher)
